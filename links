@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+    <style>
+        body {
+            background-color: rgb(80, 80, 80);
+            font-family: 'Comfortaa', 'Verdana', sans-serif;
+        }
+
+        
+    </style>
+</head>
+<body>
+    <h3>Тесты:</h3>
+    <a href="https://onlinetestpad.com/ru/testresult/1346143-finansovye-zadachi?res=znynfcopiab6s">Финансовые задачи</a>  <strong>поменяйте имя на своё и сделайте скриншот на кнопку Print</strong>
+</body>
+</html>
